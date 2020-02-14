@@ -24,7 +24,6 @@ capturing a good amount of photos, use key 'q' to exit.<br>
 recognize your face, invest in a better camera :stuck_out_tongue:*
 * Run ```python train.py```. Sit tight for a few seconds :coffee:
 
-* Run ```python final_code.py``` and VOILA! you have your own face recognition system.
+* Run ```python final_code.py``` and VOILA! You have your own face recognition system.
 
-A special thanks to https://pyimagesearch.com. Their website helped a lot. Do check out their website for
-many more awesome projects.
+A special thanks to https://pyimagesearch.com. Their website helped a lot. Do check out their website.
