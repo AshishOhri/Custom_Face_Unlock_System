@@ -26,4 +26,11 @@ recognize your face, invest in a better camera :stuck_out_tongue:*
 
 * Run ```python final_code.py``` and VOILA! You have your own face recognition system.
 
+## Understanding and changing the code
+*One can change the below mentioned variables according to their needs*
+* The ```final_code.py``` file consists of a variable ```EYE_AR_THRESHOLD``` that is set to **0.27** i.e. if the eye blink falls below this threshold, it will be considered as a blink.
+* The above file has variable ```EYE_AR_CONSEC_FRAMES``` set to **1** which implies that a blink must last for atleast one frame.
+* Finally, at the end of the same file, an if condition is set to check if blinks are greater than **2**. If so, the code breaks out of the loop.
+
+## References
 A special thanks to https://pyimagesearch.com. Their website helped a lot. Do check out their website.
