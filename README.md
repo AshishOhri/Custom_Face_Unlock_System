@@ -1,4 +1,4 @@
-# Custom_Face_Recognition
+# Custom_Face_Unlock_System
 *This repository contains code for a custom face recognition implemented in python. Using the code in this repository, one can create a 
 face recognition system having eye blink detector as an anti-spoofing method, that prevents a photo to be used as a measure to detect a
 face.*
